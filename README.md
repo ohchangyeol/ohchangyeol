@@ -14,8 +14,8 @@
 
 <br/>
 
-## Tech Stack
-### Techs that I've used at least once
+<h3>Tech Stack</h3>
+Techs that I've used at least once
 
 
 <div>
@@ -39,7 +39,7 @@
 </div>
 
 <br/>
-<h2>Connect</h2>
+<h3>Connect</h3>
 <div>
     <a href="https://www.facebook.com/profile.php?id=100008649183778"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008649183778"/></a>&nbsp;
     <a href="mailto:cy950315@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=cy950315@naver.com"/></a>&nbsp;
