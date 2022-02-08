@@ -8,7 +8,7 @@
 - 🌱 I'm learning the entire web stack and Spring Boot and Spring Data JPA
 - 🤔 Looking for open source to contribute
 - 😄 I like to communicate with people.
-<br/>
+
 <h3>Tech Stack</h3>
 Techs that I've used at least once
 <div>
@@ -30,7 +30,7 @@ Techs that I've used at least once
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 </div>
-<br/>
+
 <h3>Connect</h3>
 <div>
     <a href="https://www.facebook.com/profile.php?id=100008649183778"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008649183778"/></a>&nbsp;
