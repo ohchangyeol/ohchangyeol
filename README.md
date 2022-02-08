@@ -1,4 +1,3 @@
-<div align="center">
 <h1>Hi 👋, I'm ChangYeol Oh &nbsp;  
     <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohchangyeol&count_bg=%237FB5D1&title_bg=%23A9B7BE&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -38,4 +37,4 @@
     <a href="mailto:cy950315@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=cy950315@naver.com"/></a>&nbsp;
     <a href="https://www.instagram.com/o.cha_ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/o.cha_ng/"/></a>
 </div>
-</div>
+
