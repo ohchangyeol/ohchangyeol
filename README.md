@@ -3,7 +3,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohchangyeol&count_bg=%237FB5D1&title_bg=%23A9B7BE&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </h1>
 
-### I'm developing a service that will make our lives easier.
+### I am developing services that make our lives easier.
 
 - 🌱 I'm learning the entire web stack and Spring Boot and Spring Data JPA
 - 🤔 Looking for open source to contribute
