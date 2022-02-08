@@ -5,19 +5,12 @@
 
 ### I'm developing a service that will make our lives easier.
 
-<br>
-
 - 🌱 I'm learning the entire web stack and Spring Boot and Spring Data JPA
 - 🤔 Looking for open source to contribute
 - 😄 I like to communicate with people.
-
-
 <br/>
-
 <h3>Tech Stack</h3>
 Techs that I've used at least once
-
-
 <div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp;
@@ -37,7 +30,6 @@ Techs that I've used at least once
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 </div>
-
 <br/>
 <h3>Connect</h3>
 <div>
