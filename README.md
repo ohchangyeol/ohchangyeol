@@ -10,7 +10,7 @@
 - 😄 I like to communicate with people.
 
 <h3>Tech Stack</h3>
-Techs that I've used at least once
+<p>Techs that I've used at least once...</p>
 <div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp;
