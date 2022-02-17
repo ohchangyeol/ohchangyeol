@@ -5,7 +5,7 @@
 
 ### I'm developing a service that will make our lives easier.
 
-- 🌱 I'm learning the entire web stack and Spring Boot and Spring Data JPA
+<!-- - 🌱 I'm learning the entire web stack and Spring Boot and Spring Data JPA -->
 - 🤔 Looking for open source to contribute
 - 😄 I like to communicate with people.
 <h3>Tech Stack</h3>
